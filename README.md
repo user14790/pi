@@ -27,7 +27,7 @@
           - thinking: abstract / univesral / fundamtal / topology
           - it is considered a smarter and more technical move. (in general terms not always)
 - requirement: 
-  - senior / R&D Engineer / python
+  - Junior+ / python
 	  - i am looking for a developer for face-to-face collaboration.
 		- no pay
 		- do not offload all the work to AI
@@ -44,6 +44,6 @@
       | property | data | communicate.manager / graph
                           - interactive list (for ontology)
                           - interactive tree (for AST / code)
-			  			            - limitation nesting level
+		                  - limitation nesting level
                             - A specifier for converting a TUI list of objects from a
                               vertical layout to a horizontal one. (for lang)
