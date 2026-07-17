@@ -40,9 +40,10 @@
       | tabs            | |1|2|3| / view tree
       | trm.in          | terminal.input (interpretator / REPL)
       | trm.ou          | terminal.output
-	    |      ob         | (name current object)
+	  |      ob         | (name current object)
       | property | data | communicate.manager / graph
                           - interactive list (for ontology)
                           - interactive tree (for AST / code)
 			  			            - limitation nesting level
-                            - A specifier for converting a TUI list of objects from a                                                           vertical layout to a horizontal one. (for lang)
+                            - A specifier for converting a TUI list of objects from a
+                              vertical layout to a horizontal one. (for lang)
