@@ -41,7 +41,7 @@
       | trm.in          | terminal.input (interpretator / REPL)
       | trm.ou          | terminal.output
 	  |      ob         | (name current object)
-      | property | data | communicate.manager / graph
+      | metadata | data | communicate.manager / graph
                           - interactive list (for ontology)
                           - interactive tree (for AST / code)
 		                  - limitation nesting level
